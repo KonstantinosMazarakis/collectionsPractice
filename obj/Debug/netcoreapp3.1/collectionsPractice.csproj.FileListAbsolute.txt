@@ -1,0 +1,13 @@
+C:\CodingDojo\c#\assigments\collectionsPractice\bin\Debug\netcoreapp3.1\collectionsPractice.exe
+C:\CodingDojo\c#\assigments\collectionsPractice\bin\Debug\netcoreapp3.1\collectionsPractice.deps.json
+C:\CodingDojo\c#\assigments\collectionsPractice\bin\Debug\netcoreapp3.1\collectionsPractice.runtimeconfig.json
+C:\CodingDojo\c#\assigments\collectionsPractice\bin\Debug\netcoreapp3.1\collectionsPractice.runtimeconfig.dev.json
+C:\CodingDojo\c#\assigments\collectionsPractice\bin\Debug\netcoreapp3.1\collectionsPractice.dll
+C:\CodingDojo\c#\assigments\collectionsPractice\bin\Debug\netcoreapp3.1\collectionsPractice.pdb
+C:\CodingDojo\c#\assigments\collectionsPractice\obj\Debug\netcoreapp3.1\collectionsPractice.csprojAssemblyReference.cache
+C:\CodingDojo\c#\assigments\collectionsPractice\obj\Debug\netcoreapp3.1\collectionsPractice.AssemblyInfoInputs.cache
+C:\CodingDojo\c#\assigments\collectionsPractice\obj\Debug\netcoreapp3.1\collectionsPractice.AssemblyInfo.cs
+C:\CodingDojo\c#\assigments\collectionsPractice\obj\Debug\netcoreapp3.1\collectionsPractice.csproj.CoreCompileInputs.cache
+C:\CodingDojo\c#\assigments\collectionsPractice\obj\Debug\netcoreapp3.1\collectionsPractice.dll
+C:\CodingDojo\c#\assigments\collectionsPractice\obj\Debug\netcoreapp3.1\collectionsPractice.pdb
+C:\CodingDojo\c#\assigments\collectionsPractice\obj\Debug\netcoreapp3.1\collectionsPractice.genruntimeconfig.cache
